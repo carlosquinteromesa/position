@@ -1,0 +1,194 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.Dizq1{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: blue;
+}
+
+.Dizq2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: blue;
+}
+
+.Dizq3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: blue;
+}
+
+.Dcen1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: blue;
+}
+
+.Dcen2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    background-color: blue;
+}
+
+.Dcen3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color: blue;
+}
+
+.Dder1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 0;
+    right: 0;
+    margin: auto 0;
+    background-color: blue;
+}
+
+.Dder2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    background-color: blue;
+}
+
+.Dder3{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto 0 0;
+    background-color: blue;
+}
+
+.Dizq1-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: purple;
+}
+
+.Dcen1-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: purple;
+}
+
+.Dder1-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    right: 0;
+    margin: auto 0;
+    background-color: purple;
+}
+
+.Dizq2-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: purple;
+}
+
+.Dcen2-1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    background-color: purple;
+}
+
+.Dder2-1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    background-color: purple;
+}
+
+.Dizq3-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: purple;
+}
+
+.Dcen3-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-color: purple;
+}
+
+.Dder3-1{
+    position: absolute;
+    width: 30px;
+    height: 30px;    
+    right: 0;
+    bottom: 0;
+    margin: 0 auto 0 0;
+    background-color: purple;
+}
